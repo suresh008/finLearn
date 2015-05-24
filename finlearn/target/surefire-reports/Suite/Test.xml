@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="surr-W7-2" name="com.adobe.fin.loginPOTest" tests="1" failures="0" timestamp="18 May 2015 07:36:03 GMT" time="12.88" errors="0">
+  <testcase name="loginPOTest_1" time="12.869" classname="com.adobe.fin.loginPOTest"/>
+</testsuite>
