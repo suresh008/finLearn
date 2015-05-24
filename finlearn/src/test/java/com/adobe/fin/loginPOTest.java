@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 public class loginPOTest {
 
 	@Test
-	public void loginPOTest_1() throws Exception
+	public void loginPOTest_01() throws Exception
 	{
 		WebDriver testDriver = new FirefoxDriver();
 		testDriver.get("http://sj1010005176149:8080/lc/ws");
